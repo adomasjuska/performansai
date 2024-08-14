@@ -1,6 +1,6 @@
 // Arrays containing different options
 
-const locations = ["Baltame kube", "Buvusiame fabrike", "Bašto pastate","Teatro foje", "Miesto aikštėje","Autobusų parke","Dideliame narve" ];
+const locations = ["Baltame kube", "Buvusiame fabrike", "Pašto pastate","Teatro foje", "Miesto aikštėje","Autobusų parke","Dideliame narve" ];
 const actors = ["aštuonios avys", "nuoga moteris", "baltai apsirengusi minia","keturi identiškai apsirengę vyrai", "grupė žmonių ilgais plaukais ir laisvai krentančiais žemės spalvos drabužiais", "įžymus žmogus ne iš meno srities","trys jaunos merginos ryškiais neoniniais kostiumais"];
 const actions = ["lėtai lipa kopėčiomis", "skaito telefonų knygą", "dalimis išrinkinėja automobilį","valandą guli ant grindų","ilgai skaito socialinės teorijos tekstus","pila ant savęs netikrą kraują ir panašius skysčius","kas trisdešimt sekundžių surinka","energingai vaikšto ratais kvadratais","pusdienį sėdį vienoje vietoje","verkia","raitosi ant grindų ir panašiai šoka","bet kaip teplioja dažus ant didelės drobės","tampo sunkius objektus"];
 
